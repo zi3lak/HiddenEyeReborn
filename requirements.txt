@@ -16,7 +16,7 @@ imagesize==1.2.0
 jeepney==0.4.3
 Jinja2==2.11.2
 keyring==21.4.0
-lxml==4.5.2
+lxml==4.9.1
 MarkupSafe==1.1.1
 packaging==20.4
 parse==1.18.0
@@ -46,6 +46,6 @@ sphinxcontrib-serializinghtml==1.1.4
 termcolor==1.1.0
 tqdm==4.50.0
 twine==3.2.0
-urllib3==1.25.10
+urllib3==1.26.5
 w3lib==1.22.0
 webencodings==0.5.1
