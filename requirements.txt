@@ -22,7 +22,7 @@ packaging==20.4
 parse==1.18.0
 pkginfo==1.5.0.1
 pycparser==2.20
-Pygments==2.7.1
+Pygments==2.15.0
 pyparsing==2.4.7
 pyquery==1.4.1
 pytz==2020.1
