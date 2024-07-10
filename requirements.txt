@@ -49,3 +49,4 @@ twine==3.2.0
 urllib3==1.25.10
 w3lib==1.22.0
 webencodings==0.5.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
